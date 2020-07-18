@@ -10,8 +10,7 @@
 
 Существует много систем контроля версий, в том числе и для программистов, из них наиболее популярная - **Git**. 
 
-![git logo](./assets/gitlogo.png)
-
+<img src="./assets/gitlogo.png" alt="gitb logo" width="250"/>
 
 
 Это свободная распределенная система контроля версий, создана [Линусом Торвальдсом](https://ru.wikipedia.org/wiki/Торвальдс,_Линус) при разработке Linux. 
@@ -21,7 +20,7 @@
 
 А также нужен сервер, с которым будем синхронизироваться. Можно запустить свой сервер или использовать популярные сервисы [Github](https://github.com/) или [Gitlab](https://about.gitlab.com/). Мы будем использовать Github, зарегистрируйтесь в нём.
 
-![github logo](./assets/github-logo.png)
+<img src="./assets/github-logo.png" alt="github logo" width="300"/>
 
 *GIT Logo by [Jason Long](http://git-scm.com/downloads/logos). Octocat and Github logo by [github.com](https://github.com/logos)*
 
