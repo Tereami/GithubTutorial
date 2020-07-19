@@ -10,7 +10,7 @@
 
 * add AsDouble method
 * fix error save with russian symbols
-* done task 13.1
+* close #3.1
 
 Плохие сообщения:
 

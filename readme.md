@@ -25,10 +25,13 @@
 ## Справочник по командам:
 
 [add](./command_add.md), 
+[clone](./command_clone.md), 
 [commit](./command_commit.md),
+[config](./command_config.md),
+[init](./command_init.md), 
 [push](./command_push.md),
 [pull](./command_pull.md),
-[sync](./command_sync.md),
+[remote](./command_remote.md)
 
 
 ---
